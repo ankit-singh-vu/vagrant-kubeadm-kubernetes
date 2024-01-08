@@ -126,5 +126,9 @@ enter the token in browser from  your local path ./configs/token from root of th
 ```
 
 from next time just 
+```
 vagrant up
 and then open http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/#/login in browser
+```
+
+![alt text](https://github.com/ankit-singh-vu/vagrant-kubeadm-kubernetes/blob/master/Screenshot%20from%202024-01-08%2012-44-28.png)

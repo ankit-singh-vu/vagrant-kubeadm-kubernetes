@@ -131,7 +131,7 @@ vagrant up
 then run below cmd in local
 kubectl proxy  
 and then open http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/#/login in browser
-and enter token 
+and enter token from ./configs/token
 enjoy !!!
 ```
 
